@@ -1,0 +1,43 @@
+.btn-treehouse {
+    padding: 13px 24px 15px 24px;
+    border-radius: 5px;
+    color: white;
+    background-color: #6AD58B;
+    font-family: Raleway, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 12pt;
+    letter-spacing: 0.5pt;
+}
+.btn-treehouse:hover {
+    background-color: #42C56A;
+}
+
+.btn-medium {
+    padding: 13px 24px 15px 24px;
+    border-radius: 30px;
+    border: 1px solid #C2C2C2;
+    color: #C2C2C2;
+    background-color: white;
+    font-weight: 300;
+    font-size: 12pt;
+}
+
+.btn-medium:hover {
+    border: 2px solid #999;
+    color: #999;
+    text-transform: uppercase;
+}
+
+.btn-yours {
+    padding: 13px 24px 15px 24px;
+    color: #999999FF;
+    background-color: #832D2E;
+    font-size: 12pt;
+    font-weight: 700;
+    letter-spacing: 0.5pt;
+    border-radius: 5px;
+}
+
+.btn-yours:hover {
+    background-color: black;
+}
